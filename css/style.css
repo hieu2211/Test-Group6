@@ -1,6 +1,9 @@
 /* <!-- header dang --> */
     /* <!-- about hieu --> */
      /* <!-- aside thanh --> */
+     .aside{
+         margin-bottom: 50px;
+     }
      .aside .row .col h4{
      width: 60%;
      background: #3079DD;

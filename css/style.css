@@ -1,6 +1,20 @@
 /* <!-- header dang --> */
     /* <!-- about hieu --> */
      /* <!-- aside thanh --> */
+     .aside .row .col h4{
+     width: 60%;
+     background: #3079DD;
+     border-bottom-right-radius: 10px;
+     border-bottom-left-radius: 10px;
+     margin-left: 80px;
+}
+.aside .row .col .standard .standard-body p{
+     font-size: 25px;
+}
+.aside .row .col .standard a.btn{
+     border-radius: 20px;
+     margin-bottom: 20px;
+}
      /* <!-- contact us hoan --> */
      /* <!-- footer hoan --> */
      @media screen and (max-width:576px){

@@ -3,6 +3,17 @@
      /* <!-- aside thanh --> */
      /* <!-- contact us hoan --> */
      /* <!-- footer hoan --> */
+     
+.footer .row .fa-mail-forward{
+     transform: rotate(150deg);
+}
+.footer .row .fa-mail-reply{
+     transform: rotate(100deg);
+}
+.footer .row ul{
+     list-style-type: none;
+}
+
      @media screen and (max-width:576px){
          
      }
